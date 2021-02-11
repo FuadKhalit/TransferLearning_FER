@@ -12,11 +12,11 @@ Utilizing deep learning framework using Tensorflow and Keras library to create f
 
 ## Results
 
-<br>![result](image/cnn_test.png)</br>
+<br>![result](image/cnn_acc.png)</br>
 <br>![result](image/cnn_loss.png)</br>
-<br>![result](image/vgg_test.png)</br>
+<br>![result](image/vgg_acc.png)</br>
 <br>![result](image/vgg_loss.png)</br>
-<br>![result](image/resnet_test.png)</br>
+<br>![result](image/resnet_acc.png)</br>
 <br>![result](image/resnet_loss.png)</br>
 <br>![result](image/hp_vgg.png)</br>
 <br>![result](image/hp_resnet.png)</br>
