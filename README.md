@@ -13,11 +13,20 @@ Utilizing deep learning framework using Tensorflow and Keras library to create f
 ## Results
 
 <br>![result](image/cnn_acc.png)</br>
+Convolution Network Accuracy
 <br>![result](image/cnn_loss.png)</br>
+Convolution Network Loss
 <br>![result](image/vgg_acc.png)</br>
+VGG16 Accuracy
 <br>![result](image/vgg_loss.png)</br>
+VGG16 Loss
 <br>![result](image/resnet_acc.png)</br>
+Resnet50 Accuracy
 <br>![result](image/resnet_loss.png)</br>
+Resnet50 Loss
 <br>![result](image/hp_vgg.png)</br>
+Hyperparameter tuning for VGG
 <br>![result](image/hp_resnet.png)</br>
+Hyperparameter tuning for Resnet
 <br>![result](image/Overall.png)</br>
+Overall Result for the experiment
